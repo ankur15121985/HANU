@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hanu</string>
+    <string name="pick_pdf">Select PDF</string>
+    <string name="convert">Convert</string>
+    <string name="converting">Converting…</string>
+    <string name="done">Done</string>
+    <string name="error">Error</string>
+    <string name="share">Share</string>
+    <string name="open_file">Open File</string>
+    <string name="convert_another">Convert Another</string>
+    <string name="excel_format">Excel Spreadsheet (.xlsx)</string>
+    <string name="word_format">Word Document (.docx)</string>
+    <string name="ppt_format">PowerPoint (.pptx)</string>
+    <string name="app_description">PDF to Excel, Word &amp; PowerPoint Converter</string>
+</resources>

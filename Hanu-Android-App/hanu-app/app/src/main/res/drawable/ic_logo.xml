@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Background rounded rect -->
+    <path
+        android:fillColor="#22A667"
+        android:pathData="M20,10 Q10,10 10,20 L10,88 Q10,98 20,98 L88,98 Q98,98 98,88 L98,20 Q98,10 88,10 Z" />
+
+    <!-- "H" letter -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M30,30 L30,78 M30,54 L78,54 M78,30 L78,78"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="8"
+        android:strokeLineCap="round" />
+
+</vector>
